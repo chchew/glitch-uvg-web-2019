@@ -19,7 +19,7 @@ For the project to build, these files must exist with exact filenames:
 * `src/index.js` is the JavaScript entry point.
 You can delete or rename the other files.
 
-`watch.json` - The [watch.json](https://glitch.com/help/restart/) file in this project configures Glitch to use optimal install and restart rules for developing React apps. 
+`watch.json` - The [watch.json](https://glitch.com/help/restart/) file in this project configures Glitch to use optimal install and restart rules for developing React apps.
 
 ## Available Scripts
 
@@ -37,8 +37,6 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
